@@ -1,0 +1,11 @@
+{
+  "source": "https://data-api.binance.vision/api/v3/klines",
+  "method": "Binance Spot REST API",
+  "symbol": "TRXUSDT",
+  "interval": "1h",
+  "timezone": "UTC",
+  "collection_server_time_utc": "2026-10-22T08:09:36.694000+00:00",
+  "cutoff_utc": "2026-10-22T08:09:36.694000+00:00",
+  "raw_rows": 73230,
+  "raw_sha256": "b2e1e4dd32467c31282f79f8002ce5dbe647ae9bdbf11150bcdb5961d6961f53"
+}

@@ -1,0 +1,2 @@
+stage,hidden_size,num_layers,dropout,batch_size,learning_rate,max_epochs,patience,gradient_clip,seed,window_size,horizon,best_epoch,val_rmse_usdt
+arsitektur_awal_tanpa_penalaan,64,2,0.2,32,0.001,100,10,1.0,42,25,1,32,0.06551756624601943

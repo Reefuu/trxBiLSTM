@@ -1,0 +1,23 @@
+{
+  "rows_input": 73230,
+  "invalid_rows_removed": 9,
+  "duplicates_removed": 0,
+  "unfinished_rows_removed": 1,
+  "reordered": false,
+  "gap_count": 26,
+  "invalid_csv_rows_first_20": [
+    532,
+    8632,
+    14777,
+    15106,
+    22111,
+    23344,
+    25093,
+    27727,
+    41844
+  ],
+  "rows_clean": 73220,
+  "first_open_utc": "2018-06-11T11:00:00+00:00",
+  "last_open_utc": "2026-10-22T07:00:00+00:00",
+  "as_of_utc": "2026-10-22T08:09:36.694000+00:00"
+}
