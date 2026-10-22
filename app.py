@@ -17,7 +17,7 @@ ARTIFACT_ROOT = Path(os.environ.get("TRX_ARTIFACT_ROOT", str(ROOT / "artifacts")
 st.set_page_config(page_title="Prediksi Close TRXUSDT | BiLSTM", page_icon="📈", layout="wide")
 st.markdown("""
 <style>
-.block-container {max-width: 1080px; padding-top: 2rem;}
+.block-container {max-width: 1080px; padding-top: 2rem; margin-top: 2rem;}
 .trx-title {background:#194c70;color:white;padding:1.1rem 1.4rem;border-radius:6px;
             font-size:1.35rem;font-weight:700;margin-bottom:1rem;}
 [data-testid="stMetric"] {border:1px solid #9eb3c8;border-radius:7px;padding:1rem;}
